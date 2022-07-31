@@ -20,16 +20,16 @@ public class Wegierski{
             "Befejezetlen játékok", //9
             "Leghosszabb Játék", //10
 
-            "Bob! siess, \n fogj annyi felszerelést amennyit\n     csak tudsz!\n              Katrin", //11
+            "Bob! Siess, \n fogj annyi felszerelést amennyit\n     csak tudsz!\n              Katrin", //11
 
-            "Bob meghalt, ez szomorú.", //12
+            "Bob meghalt, ez elszomorító :(.", //12
             "Ben meghalt, miért pont ő? Miért...?", //13
             "Katrin halott, az utolsó egészséges nő meghalt...", //14
             "Bob megbetegedett, hol van a gyógyszer?", //15
-            "Bennek magas láza van.", //16
+            "Bennek magas lázzal rendelkezik.", //16
             "Katrin nem érzi jól magát.", //17
-            "Bob túl sok ideig nem ért vissza.", //18
-            "Ben elment, soha többé nem jön vissza.", //19
+            "Bob már túl sok ideig nem ért vissza.", //18
+            "Ben elment és soha többé nem jön vissza.", //19
             "Katrin örökre eltűnt...", //20
 
             "A fenébe, betegek lettünk!", //21
@@ -40,16 +40,16 @@ public class Wegierski{
             "Ben már nem bírta többé a halálokat és a túlélés fentartásának a szenvedését.", //26
 
             "A Rádió végre meg lett megjavítva.", //27
-            "A Maszk meg lettjavítva!", //28
+            "A Maszk meg lett javítva!", //28
             "A Rádió megint elromlott.", //29
 
             "Ki kell űritenünk a szemetet, mert ha nem, akkor a penész megöl minket!", //30
-            "Jelzőfényt adtunk, lehet hogy megmentenek.", //31
+            "Jelzőfényt adtunk, és lehet hogy akkor majd megmentenek!", //31
             "Elvesztettük a zseblápát.", //32
             "Elloptunk egy zseblámpát.", //33
             "Elloptunk egy maszkot", //34
             "Elvesztettük a baltát...", //35
-            "Következő alkalommal majd üzetelünk.", //36
+            "A következő alkalommal majd üzletelünk.", //36
             "Üzlet teljesítve.", //37
             "A Mentőakció sikeres!", //38
             "Meg kell őt mentenünk!\\gyorsan nyomd meg!", //39
@@ -64,7 +64,7 @@ public class Wegierski{
             "éhség", //46
             "szomjasság", //47
             "fáradtság", //48
-            "részeg", //49
+            "ittassád", //49
 
             "Matrac = alugy a következő csodás napig", //50
             "Undorító szemét", //51
@@ -75,20 +75,20 @@ public class Wegierski{
             "Mérgezettségi szint: ", //56
             "MAGAS", //57
             "ALACSONY", //58
-            "Térkép", //58
-            "Balta - ÉLES!", //59
-            "Maszk, állapot:", //60
+            "Hatalmas térkép", //58
+            "Éles Balta!", //59
+            "A maszk állapotja:", //60
             "Szerszámok:", //61
             "Gyógy csomag:", //62
-            "Sima zseblámpa", //63
+            "Hagyományos zseblámpa", //63
             "Konzerv", //64
             "Víz", //65
             "Petróleum", //66
 
-            "Nekem vannak pár használható cuzzaim", //67
-            "Pss... Van valamim!", //68
+            "Nekem vannak pár hasznos cuccok", //67
+            "Pss...  Nálom Van Valami!", //68
             "Valki kopog??", //69
-            "Vannak hangok, ez segítség?", //70
+            "Hangokat hallunk, ez valami segítség?", //70
             "valami le esett az égből", //71
             "Csend van kint...", //72
 
@@ -96,20 +96,20 @@ public class Wegierski{
             "Kellékek nékül, Bob nem jön vissza...", //74
             "Kellékek nékül, Katrin nem jön vissza...", //75
 
-            " Helló, mi a hejzet\n" +
-                    "Az bonyolultabb mint hinnéd,\n" +
-                    "Ne bízz a\n" +
+            " Helló, ami most történik\n" +
+                    "az bonyolultabb mint hinnéd,\n" +
+                    "ne bízz a\n" +
                     "kormányban és a katonaságban.\n" +
-                    "Velünk jöhetsz.\n" +
+                    "velünk jöhetsz.\n" +
                     "minden tizedik napon, gyere \n" +
-                    "és itt hagyunk egy csomagot\n" +
-                    "     itt, csak neked.", //76
-            "Érdekes emberek[?]...", //77
-            "Menj el! Te nem \n" +
-                    "  vagy közöttünk valósi!", //78
+                    "és hagyunk egy csomagot\n" +
+                    "     pont itt, csak neked.", //76
+            "Fura emberek[?]...", //77
+            "Húzz az anyádba! \n" Te ide +
+                    "  nem tartozol!", //78
 
-            "Nem volt semmi a dobozban.", //79
-            "Volt egy szerszám.", //80
+            "Semmi nem volt a dobozban.", //79
+            "Volt ott egy szerszám.", //80
             "Találtunk egy métert.", //81
             "Találtunk kártyákat.", //82
             "Találtunk egy baltát.", //83
@@ -137,7 +137,7 @@ public class Wegierski{
             "Mindenki meghalt...", // 103
             "Megtámadtak és meghaltál...", // 104
             "Lépj a menühöz", // 105
-            "Megtámattak minket.", // 106
+            "Megtámattak minket!", // 106
             "Kaptunk segítséget, krupli és egy új térkép!", // 107
             "El nyomtuk ami esett.", // 108
             "Nap", // 109
@@ -145,9 +145,9 @@ public class Wegierski{
             "Csúztazsd balra!",//111
             "Reptér",//112
             "Hamarosan megmentenek, Krumpli +1",//113
-            "Következő alkalommal mi leszünk .",//114
+            "Következő alkalommal majd velünk lessz.",//114
             "Elvesztettünk egy térképet...", // 115
-            "Csak Menedék    ", // 116
+            "Csak Menedék ", // 116
             "Puska", // 117
             "Lőszer", // 118
             "Szakács", // 119
@@ -157,14 +157,14 @@ public class Wegierski{
 
             "Fa", // 123
             "Vas", // 124
-            "Dolgozóasztal", // 125
+            "Barkácsasztal", // 125
             "Kaka (Műtrágya)", // 126
             "Nyálka", // 127
             "TV", // 128
 
             "Rakéta", // 129
-            "Rakéta üzemanyaga", // 130
-            "Lyuk", // 131
+            "Rakéta üzemanyag", // 130
+            "Bánya lyuk", // 131
             "Oltár", // 132
             "Állapot", // 133
             "Szelep", // 134
@@ -176,8 +176,8 @@ public class Wegierski{
             "Denevérek", // 140
             "Arany kulcs", // 141
 
-            "Lapátolás", // 142
-            "Sírhalom", // 142
+            "Lapát", // 142
+            "Sír", // 142
             "Szív", // 144
             "Zombi", // 145
 
@@ -191,8 +191,8 @@ public class Wegierski{
             "Kutyaház", // 152
             "A kutyus meghalt", // 153
             "Arany", // 154
-            "Arany rúd", // 155
-            "Bicikli, lánc: " ,// 156
+            "Arany Rúd", // 155
+            "Bicikli és a lánc álopotja: " ,// 156
             "Bob már nem bírta látni a sok\n" +
                     "halálokat és a túlélés fentartásának a szenvedését..", //157
             "Katrin már nem bírta látni a sok\n" +
@@ -216,7 +216,7 @@ public class Wegierski{
             "támadók", //175
             "Támadás", //176
             "Védekezés", //177
-            "Krumplipüre", // 178
+            "Krumplipüré", // 178
             "Regenerálja a védekező pontokat 100%-ra", // 179
 
             "Csontok", // 180
@@ -233,27 +233,27 @@ public class Wegierski{
             "A menekülés nem gyógyítja a szörnyet", // 190
             "DuplaRúgás", // 191
             "2x több sebzés", // 192
-            "Boxing bag", // 193
+            "Boxzsák", // 193
             "Hangszóró", // 194
             "Foglyok, kötél", // 195
             "Foglyok, üzenet a katonaságnak", // 196
-            "Van 10 foglyunk, Mnetesetek meg minket! \nGdansk, Legendy 53", // 197
+            "Van 10 foglyunk, Mentesetek meg minket! \nGdansk, Legendy 53", // 197
             "Elküldve", // 198
             "Megfogunk menteni a \nnapon: ", // 199
-            "Nidzsa", //200
-            "Elkerülöd a szörnyeket 5 napig", //201
+            "Nindzsa", //200
+            "Elkerülöd a kinti szörnyeket 5 napig", //201
             "Takaró", //201
             "Pennywhistle", //203
-            "Összetört kocsi", //204
+            "Lerobbant kocsi", //204
             "Kocsi részei", //205
-            "csúzli", //206
-            "csirke", //207
+            "Csúzli", //206
+            "Csirke", //207
 
-            "Növekszik a falon.", //208
-            "Víz kifogy!", //209
+            "Egy gyanús növény növekszik a falon.", //208
+            "A víz hamarossan kifogy!", //209
             "Az élelmiszer lassan ki fog fogyni!", //210
-            "Katonai fényjelzést kell adnunk, vagy más módot kell találnunk a túlélésre.", //211
-            "Találjuk meg a túlélési módot, nem csak ott ülhetünk.", //212
+            "Katonai fényjelzést kell adnunk, vagy más módot kell találnunk a túlélésre vagy a menekülésre.", //211
+            "Találjuk meg a túlélés módját, ne csak ott üldögéljünk.", //212
 
             "[TUTORIAL]\nSzia! Ez az Ön menedékhelye, mozoghat rajta (csúsztassa balra/jobbra). Érintse meg/koppintson rá, hogy megtudja, mi az. Érintse meg/koppintson a karakterekre a statisztikáik ellenőrzéséhez. Koppintson az ágyra, és menjen aludni.", //213
             "[TUTORIAL]\nTöbbnyire minden, amit \"kipipál\" vagy tesz, az alvás után hat. Itt olvashat néhány fontos információt. A csapóajtó nagyon fontos, ki lehet menni a kertbe vagy kinyitni, hogy beengedjen valakit, vagy fényjelzést adjon.", //214
@@ -266,19 +266,19 @@ public class Wegierski{
             "Bot", // 221
             "Suriken", // 222
             "Ördög", // 223
-            "Sárgarépa", // 224
+            "Sárgarépák", // 224
             "AlcoMist", // 225
             "Az ellenséget 30%-kal gyengébbé teszi.", // 226
 
             "Teddy Maci", // 227
             "Létra", // 228
-            "Szereted-e\n Alive In Shelter?\n   Értékeld!", // 229
+            "Szereted-e az\n Alive In Sheltert?\n   TEHÁT ÉRTÉKELD!", // 229
             "Repülőtér", // 230
             "Erdő", // 231
             "Üzlet", // 232
             "További út", // 233
             "Emlékezik: ", // 234
-            "mentő busz: ", // 235
+            "Mentő busz: ", // 235
             "Mikulás", // 236
             "Segítségre van szükségem. Nincsenek karácsonyi díszek, sajnos tehát segíthetsz.", // 236
             "Vigyázz! TŰZ!", // 237
@@ -287,24 +287,24 @@ public class Wegierski{
             "A gyilkos hóember", // 241
 
             "1939 burgonya", // 242
-            "Indítsd el a játékot 1939 burgonyával.", // 243
+            "indítsd el a játékot 1939 burgonyával.", // 243
             "Csak 8mp kihívás", // 244
-            "A szerszámok összegyűjtésében csak 8 másodperc van", // 245
+            "A szerszámok összegyűjtésében csak 8 másodperced van", // 245
             "Csak kaja és pia", // 246
             "Indítsa el a játékot csak 3l vízzel és 2kg élelmiszerrel", // 247
-            "Csak nők!", // 248
-            "Csak a Katrinnal lehet játszani.", // 249
+            "Csak a nők!", // 248
+            "Csak Katrinnal lehet játszani.", // 249
             "Jön a tél", // 250
             "Mindig fagyos szél lessz", // 251
             "Véletlen", // 252
-            "Indítsa el a játékot véletlenszerű dolgokkal.", // 253
+            "Indítsa el a játékot véletlenszerű holmikkal.", // 253
             "BenHulk", // 254
-            "Indítsa el a játékot mutált Bennel",  //255
-            "Növény őr", // 256
+            "Indítsd el a játékot mutált Bennel",  //255
+            "Növényőr", // 256
             "A növény segít megvédeni a bunkert.", // 257
             "Danse macabre", // 258
             "A karakterek újra életre kelnek 6 nappal a haláluk után.", // 259
-            "szerzetelek nélkül", // 260
+            "szerzetesek nélkül", // 260
             "Nincsenek szerzetesek!", // 261
             "Kint biztonságos", // 262
             "Mindig alacsony a sugárzás", // 263
@@ -315,11 +315,11 @@ public class Wegierski{
             "Klasszikus mód", // 268
             "Játssz klasszikus módban - régi idők, csak egy szoba van stb.", // 269
             "Sandbox mód", // 270
-            "Játssz a homokozó módban, Azt Csinálhatod, amit akarsz!", // 271
-            "Nincs többé fura emberek", // 272
+            "Játssz a sandbox módban, Azt Csinálhatsz, amit akarsz!", // 271
+            "Nincs többé bizarr emberek", // 272
             "Játssz denevérek, hóember és Pennywhistle nélkül.", // 273
             "RPG", // 274
-            "Keress tapasztalatpontokat és frissítsd fel a karaktereket.", // 275
+            "Keress tapasztalatpontokat és emeld fel a karakterek szintjüket.", // 275
 
             "Szint", // 276
             "Következő szint", // 277
@@ -327,14 +327,14 @@ public class Wegierski{
 
             "Napi bónusz", // 279
             "Heti bónusz", // 280
-            "Indie játékfejlesztő vagyok, szabadidőmet a játék fejlesztésével töltöm. Ha akarod, segíthetsz nekem adományozni = prémium vásárlás. Feloldod az összes DLC-elemet, az összes menedéktárgyat 0 érméért, átnevezed a karaktereket, a megjegyzett pozíciót, és eltávolítod az összes hirdetést. Köszönöm 🙂", // 281
-            "IDt megosztani", // 282
-            "Addolj be engem", // 283
-            "Barátok szomszédok", // 284
+            "Én egy Indi játékfejlesztő vagyok, szabadidőmet a játék fejlesztésével töltöm. Ha akarod, segíthetsz nekem adományozni = prémium vásárlás. Feloldod az összes DLC-elemet, az összes menedéktárgyat 0 érméért, átnevezed a karaktereket, a megjegyzett pozíciót, és eltávolítod az összes hirdetést. Köszönöm 🙂", // 281
+            "ID-t megosztani", // 282
+            "Addolj be", // 283
+            "Barátjaid:", // 284
 
             "Játsz deathmatchet - az nyer, aki tovább tart!", // 285
             "Várakozás az elfogadásra", // 286
-            "Meghívni a mérkőzésre", // 287
+            "Meghívni mérkőzésre", // 287
             "örökre meghalt", // 288
             "Deathmatchet nyeri:", // 289
             "TisztíttóBogyó", // 290
@@ -342,7 +342,7 @@ public class Wegierski{
             "\"Gommi\" falu", // 292
             "\"Majd menedékjogot adunk neked.\"", // 293
             "Weed", // 294
-            "Dildo", // 295
+            "Gumifasz", // 295
             "Drugs", // 296
 
             "fej", // 297
@@ -351,12 +351,12 @@ public class Wegierski{
             "lábak", // 300
 
             "Hegy", // 301
-            "Yard", // 302
+            "Udvar", // 302
             "Üzlet #2", // 303
-            "Tomb", // 304
+            "Síremlék", // 304
             "Menhelyek", // 305
             "Temető", // 306
-            "Strand", // 307
+            "Part", // 307
             "Egészség", // 306
             "Energia", // 307
             "inni", // 310
@@ -379,48 +379,48 @@ public class Wegierski{
             "Indítsa el a játékot minden billentyűvel!", // 327
             "Expedíciók mestere", // 328
             "Indítsa el a játékot az összes extra térképrészével", // 329
-            "Rossz hóember jött vissza 🙁", // 330
+            "Vissza jött a Gonosz hóember 🙁", // 330
             "A szennyezőmérő hibás.", // 331
-            "Mi kell zuhanyozni, használjunk piszkos vizet.", // 332
+            "le kell zuhanyoznunk! Használjunk szaros vizet .", // 332
             "Ajtó", // 333
-            "Poison", // 334
+            "Méreg", // 334
 
-            "966 Gommi Blueberries", //335
-            "Indítsa el a játékot 966 Gommi Blueberries", // 336
-            "Blobby a mocsok", // 337
-            "Indítsa el a játékot Blobby-val.", // 338
-            "Dodge the dog", //339
-            "Indítsd el a játékot kutyával! (Meg kell szerezned egy kutyaházat).", //340
+            "966 Gommi Áfonya", //335
+            "Indítsd el a játékot 966 Gommi Áfonyával", // 336
+            "Blobby a takony", // 337
+            "Indítsd el a játékot Blobby-val.", // 338
+            "Dodge a kutya", //339
+            "Indítsd el a játékot egy kutyával! (Meg kell szerezned ehhöz a kutyaházat).", //340
             "Barátok", // 341
-            "Testreszabás", // 342
+            "Átt rendezés", // 342
             "Extra", //343
-            "Gázszivárgás és tűz ...", // 344
-            "Starter pack", // 345
-            "Indítsa el a játékot extra: víz, élelmiszer, fa, vas és burgonya", // 346
-            "Holnap jó idő lesz ...", // 347
-            "Holnap lesz fagyos és szeles ...", // 348
-            "Holnap eső fog támadni minket ...", // 349
+            "Gázszivárgás és a tűz egy robanást okozott...", // 344
+            "Kezdő csomag", // 345
+            "Indítsa el a játékot extra: víz, élelmiszer, fa, vas és burgonyával", // 346
+            "Holnap jó idő lesz...", // 347
+            "Holnap fagyos és szeles lessz...", // 348
+            "Holnap zivatar fog támadni minket...", // 349
 
-            "Te, alll, die ...", // 350
-            "Segítségre van szükségünk!", // 351
-            "A csapóajtó megszakadt, meg kell oldanunk.", // 352
+            "Minnddd meeegg foooggtok halllnnniiii ...", // 350
+            "SEGÍTSÉGRE VAN SZÜKSÉGÜNK!.. VALAKI??", // 351
+            "A csapóajtó tönkrement, meg kell javítanunk.", // 352
             "Vízi növények", // 353
             "Zuhany", // 354
-            "Gyenge", // 355
+            "Retard", // 355
             "Glitch mód", // 356
-            "El fogsz élni? Mindenütt hiba ... Indítsa újra a játékot, hogy visszatérjen a normálisba!", // 357
+            "Túléled majd? Mindehol glitch... Ha újraindíttod a játékot, akkor visszatérsz a normál módba!", // 357
             "Földrengés!", // 358
-            "Fogd meg, mit akarsz menteni", // 359
+            "Fogd meg amit meg akarsz menteni", // 359
 
-            "Ben !? Hogy lehetséges?", // 360
-            "A támadók mindenütt vannak!", // 361
+            "Ben!? Ez hogy lehetséges?", // 360
+            "Mindenhol Támadók vannak!", // 361
             "Szoba", // 362
-            "Garden", // 363
-            "Basement", // 364
-            "Magazine", // 365
+            "Kert", // 363
+            "Pince", // 364
+            "Magazin", // 365
 
-            "Hurrikán jön !!!", // 366
-            "Tic Tac shut up", // 367
+            "Hurrikán fog jönni!!!", // 366
+            "Tic Tac kussolsz", // 367
 
             "Lassítja az órákat!", // 368
             "Légszűrő", // 369
@@ -428,40 +428,40 @@ public class Wegierski{
             "Cula", // 371
             "Leves", //372
             "Csontváz", // 373
-            "Doge újraéleszteni", // 374
+            "Doge felélesztés", // 374
             "Higgadt kutya újjászületése!", // 375
-            "Dişari çikmak için bir uzay roketi yapmaliyiz ya da dişaridaki diger canlilara yardim etmeliyiz. Oglunun telefonuna da yardimci olabiliriz. Lütfen otobüsün ne zaman gelecegini kontrol edin.", // 376
-            "Asker bize radyoyu ne zaman kapinin açilacagini ve gece işik sinyali verecegini söylemeli.", // 377
+            "Ahhoz, hogy kijussunk, építenünk kell egy űrrakétát, vagy segítenünk kell más lényeket kint. Ben telefonjával is tudunk segíteni. Kérjük, ellenőrizze, mikor érkezik a busz.", // 376
+            "A katonaság meg mondja nekünk a rádión hogy, mikor kell kinyitni az ajtót, és este jelezni kell a fénnyel.", // 377
             "Martha", // 378
 
-            "Nem, Martha meghalt ...", // 379
-            "Martha beteg, meg kell gyógyítanunk!", // 380
-            "Hide", // 381
+            "NEEEEEE, Martha meghalt :(...", // 379
+            "Martha beteg lett, meg kell gyógyítanunk!", // 380
+            "Elbújni", // 381
             "Elrabolták Marthát!", // 382
 
-            "Helló Martha, a nevem Frebbie vagyok, nem akarlak bántani, segíteni akarok neked, csodálatos helyet fogok mutatni neked, de neked valamit kell megtenned ...", // 383
+            "Helló Martha, a nevem Frebbie, nem akarlak bántani, segíteni akarok neked, csodálatos helyet fogok mutatni neked, de neked valamit kell megtenned ...", // 383
             "Kérlek, öld meg a testvéredet, Ben annyira durva, és nem szeretlek ... Visszamegyünk a jövő héten.", // 384
             "Én kedvelem a noket, kérlek, öld meg Apát Bobot ... Jöjjön ide a héten", // 385
             "Tápláld és vizes anyádat, erősnek kell lennie ... Jöjjön ide a jövő héten.", // 386
             "Szeretem az alkoholt, kérlek, készíts el egy pohár alkoholt és hozd el nekem a következő héten.", // 387
             "Köszönöm szépen, gyere vissza itt nap után:", // 388
             "Gitár", //389
-            "POLICE! OPEN!", // 390
-            "Tudjuk, hogy ellopja a készleteket! Adjon nekünk 1 burgonyát és 1 sárgarépát, hogy ezt figyelmen kívül hagyjuk.", // 391
+            "RENDŐRSÉG! NYISSA KI AZ AJTÓT!", // 390
+            "Tudjuk, hogy maga volt az aki ellopja a tartalékainkat! Adj nekünk 1 krumplit és 1 sárgarépát, hogy ezt figyelmen kívül hagyjuk.", // 391
 
-            "Talán megvesztegetni őket?", // 392
-            "Uhm ... Te jöttél hozzánk:", // 393
-            "Elfogadom", // 394
+            "Talán lefizet őket?", // 392
+            "Uhm ... Nagyon fontos vagy nekünk. fogunk jönni érted:", // 393
+            "Egyetértés", // 394
             "Nem értenek egyet", // 395
-            "Talán lőni?", // 396
+            "Talán le lőni őket?", // 396
             "CCTV", //397
-            "Korábban használja a \"Áram forrás\"", // 398
+            "Korábban használja az \"Áram forrást\"ezelőtt", // 398
 
             "Komló", // 399
             "Sör", // 400
 
             "Csákány",// 401
-            "Jobb csákány", // 402
+            "Erősebb csákány", // 402
 
             "Szén", // 403
             "Vasérc", // 404
@@ -469,18 +469,18 @@ public class Wegierski{
             "Uránérc", // 406
             "Aranyérc", // 407
             "Orvos", // 408
-            "Uranium pickaxe", //409
-            "-A részeg", // 410
-            "-A Részeg\n-bányászati energiát ad", // 411
+            "Urán csákány", //409
+            "-megrészegít minket", // 410
+            "-megrészegít minket\n-ad bányászati energiát", // 411
             "Pörkölt burgonya", // 412
             "Pörkölt hal", // 413
 
-            "Play The Hobo idle Clicker, whole story about the NUKE in Whelylely city and of course Hobo! Real time game!",//414
+            "Próbáld ki The Hobo idle Clicker-t is, az egész történet a NUKE bombázasról Whelylely városban és persze... Cibuk! Valós idejű játék!",//414
 
-            "Crowbar", // 415
-            "Shop rablás", // 416
+            "Feszíttővas", // 415
+            "Üzlet rablás", // 416
 
-            "Innocent Bomb", // 417
+            "Ártalmatlan bomba", // 417
             "Ad 2000 pont támadást.", // 418
 
             "nem mehetnek be", // 419
@@ -489,7 +489,7 @@ public class Wegierski{
             "GPS", // 421
             "Kő, papír, olló", // 422
             "Snake", //423
-            "Filmek", // 424
+            "Filmek-18+", // 424
 
             "Telefon", // 425
             "Hívás", // 426
@@ -505,7 +505,7 @@ public class Wegierski{
             "Gomba", // 434
             "Ébresztő", // 435
 
-            "Szia ember. Meg tudom mutatni egy csodaországot, jobb szavakat háborúk és agresszió nélkül.", // 436
+            "Szia ember. Meg tudok mutatni egy csodaországot, egy jobb világ háborúk és agresszió nélkül.", // 436
             "Nem használhatunk alkoholt, ezért kicsit szomjas vagyok.", // 437
             "Minden 20 nap alatt jönni fogok 1 sörre és 1 vodka palackra.", // 438
             "4-szer fogok jönni. Benne vagy?\n\n\nIgen           nem", // 439
@@ -517,7 +517,7 @@ public class Wegierski{
             "Indítsd el a játékot bombázóként! Üssd meg a célokat, hogy extra stíluspontot szerezzenek!", // 445
             "A macska megölt:", // 446
             "Marthának rossz álma volt ... Nagyon fél, mikor el kell bújnia.", // 447
-            "Pirinç", //448
+            "Rizs", //448
             "Ragasztó", // 449
 
             "Farmer", // 450
@@ -538,7 +538,7 @@ public class Wegierski{
             "Menjen tovább, és először kattintson a térkép megrajzolásához, majd további helyeket nyit meg.", // 462
             "Bújtsa el Mártát, amikor egyedül van, mielőtt kinyitná a csapóajtót éjszakára.", // 463
             "Ezüst kulcsot hordhat a madár vagy az orvos a boltban.", // 464
-            "Get The Cook get golden key.", // 465
+            "Szerezd meg a szakácsot arany kulcsért.", // 465
             "Kék kulcscsere a szállodában.", // 466
             "Nézze meg a wiki oldalt az összes végződés megtekintéséhez.", // 467
             "Főleg a pincében áss szén, csontok és fémércek előállítása érdekében.", // 468
@@ -564,7 +564,7 @@ public class Wegierski{
             "Próbáld túlélni a COVID-19 vírust! Az alkohol segíthet benne!", // 486
 
             "Itt tárolhatod a zenéidet", // 487
-            "Hozzáférés a tároláshoz", // 488
+            "Adjon hozzáférést a játékbeállításoknak a tárhelyhez", // 488
 
             "A Cibuk kifosztott minket. Tudsz evvel csinálni valamit? ... Öld meg, akkor továbbig beszélgethetünk.", // 489
             "Energiára van szükségünk! Hozz nekünk 5 csésze kávét.", // 490
@@ -579,8 +579,8 @@ public class Wegierski{
             "Vitézi szív", // 497
             "Összes sebeket meg gyógyítja.",// 498
 
-            "<click>", // 499
-            "<swipe>", // 500
+            "<nyomd>", // 499
+            "<húzd>", // 500
             "A kellékek a legfontosabbak a túlélésben. Ne felejtsd el nyomon követni őket.", // 501
             "Ujjcsúsztatással megváltoztathatja a helyiséget vagy néhány helyet kívül", // 502
             "Sok más elem is ellenőrizhető érintés / kattintással.", // 503
@@ -594,7 +594,7 @@ public class Wegierski{
             "Nézd! Segítők! Biztonságosan kinyithatja a csapóajtót.", // 511
             "Ideje minden családtagnak ételt és italt adni.",// 512
             "Vízzük ki a burgonyát.", // 513
-            "Fontos, hogy kikerülje a kukát. Menj kertbe.", // 514
+            "Fontos, hogy kikerülje a szemetet. Menj kertbe.", // 514
             "Ideje elküldeni valakit az expedícióra, hogy szállítson. Van egy térképünk, szóval menjünk a városba.", // 515
             "Ellenőrizze a sugárzást, ha HIG, akkor az expedíció egy gázálarcba kerül.", // 516
             "Vegye ki a víz- és ételcsomagot.", // 517
@@ -607,20 +607,20 @@ public class Wegierski{
             "Ellopom a vized!", // 523
             "Kenyér", // 524
 
-            "A nevem Srak. Kérem, segítsen nekem ebben a bajban. Adj egy terítőt. Adok neked egy kis krumplit, rádiót és benzint.", // 525
+            "A nevem Srak. Kérem, segítsen nekem ebben a bajban. Adj egy aztalterítőt. cserébe adok neked pár krumplit, rádiót és benzint.", // 525
             "lőszertartó", // 526
             "Kezd el a játékot rengeteg lőszerrel!", // 527
 
-            "Nyomd és tartsd lenyomva a vásárláshoz", // 528
+            "Tartsd nyomva a vásárláshoz", // 528
 
-            "Ma rekkenő hőség van, ma többet kell innunk!", // 529
-            "Szia! Skylight vagyok. Fel tudsz tölteni az elemlámpáddal? Itt vagyok mindig vasárnap. Cserébe segítek a fényjelzésekben.", // 530
+            "Ma rekkenő hőség van, ma TÖBBET kell innunk!", // 529
+            "Szia! Skylight vagyok. Fel tudsz tölteni a zseblámpáddal? Itt vagyok minden vasárnap. Cserébe segítek a fényjelzésekben.", // 530
 
             "Banditák", // 531
-            "Adj 2L vizet, hogy eltűnjünk. Ha nem, akkor harcolj!", // 532
+            "Adj 2L vizet, hogy eltűnjünk. Ha nem, akkor KÜZDJ VELÜNK!", // 532
 
             "Kunyhó", // 533
-            "Élelmiszer Pack", // 534
+            "Élelmiszer Zsák", // 534
             "Áttírja az aktuális mentést?", //535
 
             "Páncél", // 536
@@ -632,5 +632,5 @@ public class Wegierski{
 
     };
 
-    public static final String credits = "Fordítás:\n-Ádám Kolozsi\n-Botond Kurucz\n-Császár Botond";
+    public static final String credits = "Fordítás:\n-Császár Botond\n-Ádám Kolozs\n-Botond Kurucz";
 }
