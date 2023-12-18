@@ -250,10 +250,10 @@ public class Wegierski{
             "csirke", //207
 
             "Növekszik a falon.", //208
-            "Víz kifogy!", //209
+            "A víz kifogy!", //209
             "Az élelmiszer lassan ki fog fogyni!", //210
             "Katonai fényjelzést kell adnunk, vagy más módot kell találnunk a túlélésre.", //211
-            "Találjuk meg a túlélési módot, nem csak ott ülhetünk.", //212
+            "Találjuk meg a túlélési módot, ne csak ott lustálkodjunk.", //212
 
             "[TUTORIAL]\nSzia! Ez az Ön menedékhelye, mozoghat rajta (csúsztassa balra/jobbra). Érintse meg/koppintson rá, hogy megtudja, mi az. Érintse meg/koppintson a karakterekre a statisztikáik ellenőrzéséhez. Koppintson az ágyra, és menjen aludni.", //213
             "[TUTORIAL]\nTöbbnyire minden, amit \"kipipál\" vagy tesz, az alvás után hat. Itt olvashat néhány fontos információt. A csapóajtó nagyon fontos, ki lehet menni a kertbe vagy kinyitni, hogy beengedjen valakit, vagy fényjelzést adjon.", //214
@@ -328,7 +328,7 @@ public class Wegierski{
             "Napi bónusz", // 279
             "Heti bónusz", // 280
             "Indie játékfejlesztő vagyok, szabadidőmet a játék fejlesztésével töltöm. Ha akarod, segíthetsz nekem adományozni = prémium vásárlás. Feloldod az összes DLC-elemet, az összes menedéktárgyat 0 érméért, átnevezed a karaktereket, a megjegyzett pozíciót, és eltávolítod az összes hirdetést. Köszönöm 🙂", // 281
-            "IDt megosztani", // 282
+            "ID-t megosztani", // 282
             "Addolj be engem", // 283
             "Barátok szomszédok", // 284
 
@@ -341,9 +341,9 @@ public class Wegierski{
             "Kitisztítja a családtagokat.", // 290
             "\"Gommi\" falu", // 292
             "\"Majd menedékjogot adunk neked.\"", // 293
-            "Weed", // 294
+            "Mariska", // 294
             "Dildo", // 295
-            "Drugs", // 296
+            "Drogok", // 296
 
             "fej", // 297
             "karok", // 298
@@ -351,9 +351,9 @@ public class Wegierski{
             "lábak", // 300
 
             "Hegy", // 301
-            "Yard", // 302
+            "Udvar", // 302
             "Üzlet #2", // 303
-            "Tomb", // 304
+            "Sírkő", // 304
             "Menhelyek", // 305
             "Temető", // 306
             "Strand", // 307
@@ -383,7 +383,7 @@ public class Wegierski{
             "A szennyezőmérő hibás.", // 331
             "Mi kell zuhanyozni, használjunk piszkos vizet.", // 332
             "Ajtó", // 333
-            "Poison", // 334
+            "Méreg", // 334
 
             "966 Gommi Blueberries", //335
             "Indítsa el a játékot 966 Gommi Blueberries", // 336
@@ -401,7 +401,7 @@ public class Wegierski{
             "Holnap lesz fagyos és szeles ...", // 348
             "Holnap eső fog támadni minket ...", // 349
 
-            "Te, alll, die ...", // 350
+            "Tik, mind, meghaltok ...", // 350
             "Segítségre van szükségünk!", // 351
             "A csapóajtó megszakadt, meg kell oldanunk.", // 352
             "Vízi növények", // 353
@@ -415,12 +415,12 @@ public class Wegierski{
             "Ben !? Hogy lehetséges?", // 360
             "A támadók mindenütt vannak!", // 361
             "Szoba", // 362
-            "Garden", // 363
-            "Basement", // 364
-            "Magazine", // 365
+            "Kert", // 363
+            "Pince", // 364
+            "Magazin", // 365
 
             "Hurrikán jön !!!", // 366
-            "Tic Tac shut up", // 367
+            "Tik Tak kuss má", // 367
 
             "Lassítja az órákat!", // 368
             "Légszűrő", // 369
@@ -446,7 +446,7 @@ public class Wegierski{
             "Szeretem az alkoholt, kérlek, készíts el egy pohár alkoholt és hozd el nekem a következő héten.", // 387
             "Köszönöm szépen, gyere vissza itt nap után:", // 388
             "Gitár", //389
-            "POLICE! OPEN!", // 390
+            "RENDŐRSEG! NYISSA KI!", // 390
             "Tudjuk, hogy ellopja a készleteket! Adjon nekünk 1 burgonyát és 1 sárgarépát, hogy ezt figyelmen kívül hagyjuk.", // 391
 
             "Talán megvesztegetni őket?", // 392
@@ -520,7 +520,7 @@ public class Wegierski{
             "Pirinç", //448
             "Ragasztó", // 449
 
-            "Farmer", // 450
+            "Paraszt", // 450
             "Indítsd el a játékot az összes maggal.", // 451
 
             "Almafa", // 452
@@ -632,5 +632,5 @@ public class Wegierski{
 
     };
 
-    public static final String credits = "Fordítás:\n-Ádám Kolozsi\n-Botond Kurucz\n-Császár Botond";
+    public static final String credits = "Fordítás:\n-Császár Botond\n-Botond Kurucz\n-Ádám Kolozsi";
 }
